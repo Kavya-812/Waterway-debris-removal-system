@@ -10,6 +10,8 @@ This project is a solar-powered water trash collector that utilizes ESP8266 micr
 - Arduino IDE
 - Remote XY application
 
+#For component list you can refer to the circuit diagram.
+
 ### Installation
 
 1. Connect the ESP8266 to the computer and open the Arduino IDE.
@@ -22,7 +24,7 @@ This project is a solar-powered water trash collector that utilizes ESP8266 micr
 
 ### Usage
 
-Once the code is uploaded to the ESP8266 and the Remote XY application is installed, the solar-powered water trash collector can be controlled using the mobile device. The collector can be started and stopped remotely, and the water level and trash bin status can be monitored in real-time.
+Once the code is uploaded to the ESP8266 and the Remote XY application is installed, the solar-powered water trash collector can be controlled using the mobile device. The collector can be started and stopped remotely, and the conveyor and trash bin status can be monitored in real-time.
 
 ## Contributing
 
